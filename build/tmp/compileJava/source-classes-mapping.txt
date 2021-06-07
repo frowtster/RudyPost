@@ -1,0 +1,11 @@
+com/jojoldu/webservice/domain/posts/PostsRepository.java
+ com.jojoldu.webservice.domain.posts.PostsRepository
+com/jojoldu/webservice/domain/posts/Posts.java
+ com.jojoldu.webservice.domain.posts.Posts
+ com.jojoldu.webservice.domain.posts.Posts$PostsBuilder
+com/jojoldu/webservice/Application.java
+ com.jojoldu.webservice.Application
+com/jojoldu/webservice/web/WebRestController.java
+ com.jojoldu.webservice.web.WebRestController
+com/jojoldu/webservice/dto/PostsSaveRequestDto.java
+ com.jojoldu.webservice.dto.PostsSaveRequestDto

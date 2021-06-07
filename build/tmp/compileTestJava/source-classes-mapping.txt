@@ -1,0 +1,4 @@
+com/jojoldu/webservice/SpringWebserviceApplicationTests.java
+ com.jojoldu.webservice.SpringWebserviceApplicationTests
+com/jojoldu/webservice/domain/posts/PostsRepositoryTest.java
+ com.jojoldu.webservice.domain.posts.PostsRepositoryTest
